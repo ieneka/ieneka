@@ -1,4 +1,6 @@
+# 👋 Hi there, my name is Iñaki Martínez
 
+## I'm a Junior Front End Developer
 
 ## Skills:
 ![Angular](https://img.shields.io/badge/Angular-DC001A?style=plastic&logo=angular)</br>
